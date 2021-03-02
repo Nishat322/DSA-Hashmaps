@@ -90,3 +90,5 @@ class HashMap {
         this._deleted++
     }
 }
+
+module.exports = HashMap
